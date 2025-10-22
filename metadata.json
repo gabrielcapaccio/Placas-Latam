@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Creador de Placas LATAM",
+  "description": "Una aplicación para generar nuevas imágenes combinando el estilo de imágenes de referencia con una descripción de texto, impulsada por Gemini.",
+  "requestFramePermissions": []
+}
